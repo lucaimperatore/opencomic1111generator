@@ -1,0 +1,1 @@
+# opencomic1111generator
