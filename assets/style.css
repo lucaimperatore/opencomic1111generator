@@ -1,0 +1,51 @@
+body {
+    font-family: "Kavivanar", cursive;
+    font-weight: 400;
+    font-style: normal;
+    justify-items: anchor-center;
+  }
+  .abstract-container{
+     
+    width:600px;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #000;
+    padding: 10px;
+    width:600px;
+    margin-bottom: 20px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-item img{
+    width:250px
+  }
+
+  .grid-container-debug {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #000;
+    padding: 10px;
+    width:1600px;
+    margin-bottom: 20px;
+  }
+
+
+  .grid-item-debug {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .grid-item-debug img{
+    width:550px
+  }
+   
