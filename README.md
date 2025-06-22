@@ -39,14 +39,14 @@ Deactivate the environment
 
 ## run for help
 
-    python main.py --help
+    .venv/bin/python main.py --help
 
 ## basic usage
 
-    python main.py -in plot.json
+    .venv/bin/python main.py -in plot.json
 
 ## multiagent chat validation
 
-    python main.py -in plot.json --online
+    .venv/bin/python main.py -in plot.json --online
 
 
