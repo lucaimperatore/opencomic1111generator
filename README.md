@@ -5,7 +5,7 @@ An Automatic1111 comic panel images generator with multiagent chat image validat
 ![panel1](examples/panel1.png)
 ![panel2](examples/panel2.png)
 
-you can find a coplete comic generation example in [comic sample](examples/fumetto_answer_agent_rag_1749715128.247098.pdf)
+you can find a complete comic generation example in [comic sample](examples/fumetto_answer_agent_rag_1749715128.247098.pdf)
 
 # Setup
 
