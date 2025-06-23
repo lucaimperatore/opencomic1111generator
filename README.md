@@ -16,7 +16,7 @@ developed and tested with python 3.10.9 on Kubuntu 24.10 use of Python virtualen
 In order to use comic1111generator you need:
 
 * **automatic1111** (tested on v 1.10.1 installation) https://github.com/AUTOMATIC1111/stable-diffusion-webui . In order to get the things running you have to run it with --api option
-* **gemma3** a simple way to obtain is with **ollama** 
+* **gemma3** a simple way to obtain it is with **ollama**
 
 ### Activate virtual env and install requirements
 
